@@ -1,7 +1,7 @@
 import Head from "next/head";
-import styles from "./layout.module.css";
 import Link from "next/link";
-import Profile from "./Profile";
+import Profile from "./profile";
+import styles from "./layout.module.css";
 
 const name = "Guido Rivoira";
 export const siteTitle = "Next.js Sample Website";
